@@ -1,0 +1,23 @@
+Steps for the super cool idea of the personal project
+
+1) Utilize the ai-agent already created
+   a) study it, ask boots about it, etc.
+
+2) Use the previously built ai agent and api build to a machine learning tool
+
+3) utilize my tensorflow skills and csv writing skills
+
+4) simply find a way to have the ai-agent have the ability to consult and see the machine learning
+   a) simply be a model refiner ??
+
+Immediate thoughts and constraints:
+- do I allow the LLM to rewrite the whole file, or do I find a way to simply output like integers
+  that each node should be in each layer?
+  * i.e., what should the extent to which the model interacts be?
+- what would I be learning off of that would be useful? could I do stocks? S&P 500 is a pretty good stock to choose.
+  * with that note, I could utilize the model and other news indicator that the agent finds and use that to predict
+    price that day, i.e. the direction and impact? How would that look?
+- ANOTHER IDEA: can I have the agent physically build, run, and tweak the modeL based off results it sees?
+  As long as I prepare, vectorize, label, split, and build the rough sequential model, would I realistically be able
+  to control the LLM in a way that only tweaks important things like node numbers, epochs, learning rates, optimizers
+  etc.
